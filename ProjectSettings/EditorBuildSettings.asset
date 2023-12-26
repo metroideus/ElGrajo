@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PlayScreen.unity
+    guid: 67faa0ae16a3c5644a3e5acdda5a7291
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e3e6fe72cba24c94f84205319b5943d6, type: 2}

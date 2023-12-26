@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - MovingPlatform
+  - FallingPlatform
+  - Pin
+  - FallingBar
+  - Ladder
+  - Door
+  - Key
+  - Coin
+  - PinDead
+  - Button
+  - Wall
+  - HorizontalObs
+  - ValidZone
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - layerLadder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 682470353
+    locked: 0
+  - name: layerLadder
+    uniqueID: 4071440489
+    locked: 0
